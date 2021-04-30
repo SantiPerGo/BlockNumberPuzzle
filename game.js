@@ -426,6 +426,6 @@ $(document).ready(function(){
 	});	
 
 	$("#regresar").click(function(){	
-		window.history.back();
+		location.href ="index.html";
 	});	
 });
