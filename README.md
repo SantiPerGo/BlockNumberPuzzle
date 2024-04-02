@@ -1,4 +1,4 @@
-<img src="./page_screenshot" alt="Page Screenshot Example" style="width: 100%; height: auto;"></img>
+<img src="./img/page_screenshot.png" alt="Page Screenshot Example" style="width: 100%; height: auto;"></img>
 
 # Puzzle Game!
 
